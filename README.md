@@ -7,4 +7,4 @@ https://www.youtube.com/watch?v=zvR-Oif_nxg&t=1s
 3) 9:15 : In Oauth-resource-server in  application.yml : Same issue as above, have kept localhost at line 9
 4) 9:17 : In Oauth-resource-server in ResourceServerConfig : mvcMatchers not working (Seems deprecated) So i have commented out entire bean.
 
-Let me come back to this after learning springSecurity better.
+Let me come back to this after learning springSecurity better - Especially Oauth2.
